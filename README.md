@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Jonathan Dias! 👋
 
-<!--
-**JonyD2/JonyD2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduando em Análise e Desenvolvimento de Sistemas e entusiasta da área de Dados. 
+Atualmente trabalho com manipulação de dados, automações e criação de dashboards.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias e Ferramentas
+- **Dados:** Power BI, MySQL, Athena/Presto, Python
+- **Cloud/DevOps:** AWS S3, Jenkins
+- **Web/Design:** HTML, CSS, PHP, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Projetos:
+
+# Linkedin: www.linkedin.com/in/jonathan-dias-83238a261
