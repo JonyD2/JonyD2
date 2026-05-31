@@ -6,7 +6,7 @@ Atualmente trabalho com manipulação de dados, automações e criação de dash
 ### 🚀 Tecnologias e Ferramentas
 - **Dados:** Power BI, MySQL, Athena/Presto, Python
 - **Cloud/DevOps:** AWS S3, Jenkins
-- **Web/Design:** HTML, CSS, PHP, Figma
+- **Web/Design:** HTML, CSS, PHP, Figma, Photoshop
 
 # Projetos:
 Regia & Tinas Care: https://github.com/JonyD2/Regia-Tinas-Care
