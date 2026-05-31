@@ -9,5 +9,6 @@ Atualmente trabalho com manipulação de dados, automações e criação de dash
 - **Web/Design:** HTML, CSS, PHP, Figma
 
 # Projetos:
+Regia & Tinas Care: https://github.com/JonyD2/Regia-Tinas-Care
 
 # Linkedin: www.linkedin.com/in/jonathan-dias-83238a261
